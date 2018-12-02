@@ -1,0 +1,25 @@
+85 Degrees($$): [Bakery] mon 7 22 tue 7 22 wed 7 22 thu 7 22 fri 7 23 sat 7 23 sun 8 22 end
+Chuy's($$): [Tex-Mex] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23 sat 11 23 sun 11 20 end
+Delight Indian Cuisine($$): [Indian] mon 0 0 tue 11.30 14.30 17 21 wed 11.30 14.30 17 21 thu 11.30 14.30 17 21 fri 11.30 14.30 17 21.30 sat 11.30 14.30 17 21.30 sun 11.30 14.30 17 21 end
+Densetsu($$): [Sushi] mon 11.30 22 tue 11.30 22 wed 11.30 22 thu 11.30 22 fri 11.30 23 sat 11.30 23 sun 11.30 22 end
+El Fenix($$): [Mexican] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23 sat 11 23 sun 11 22 end
+Ferrari's Pizzeria($): [Pizza] mon 0 0 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11.30 21 sun 11.30 20 end
+Five Guys($$): [Fast food] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 22 sat 11 22 sun 11 22 end
+Haywire($$): [American] mon 11 23 tue 11 23 wed 11 23 thu 11 23 fri 11 23.59 sat 0 2 10 23.59 sun 0 2 10 22 end
+Jeff's Vegan($$): [Vegan] mon 0 0 tue 11.30 15 17 21 wed 11.30 15 17 21 thu 11.30 15 17 21 fri 11.30 15 17 21 sat 12 21 sun 12 20 end
+Jin's Korean BBQ($$): [KBBQ] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 22.30 sat 11 22.30 sun 11 22 end
+Kung Fu Tea($): [Bubble tea] mon 11.30 21.30 tue 11.30 21.30 wed 11.30 21.30 thu 11.30 21.30 fri 11.30 23 sat 11 23 sun 11 21 end
+Lavendou Bistro Provincial($$$): [French] mon 11.30 14.15 17.30 21.30 tue 11.30 14.15 17.30 21.30 wed 11.30 14.15 17.30 21.30 thu 11.30 14.15 17.30 21.30 fri 11.30 14.15 17.30 21.30 sat 11.30 14.15 17.30 21.30 sun 0 0 end
+Maggiano's($$): [Italian] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23 sat 10.30 23 sun 10.30 21 end
+Mama Pita($): [Mediterranean] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 11 20 end
+McDonald's($): [Fast food] mon 5 23 tue 5 23 wed 5 23  thu 5 23  fri 0 23.59 sat 0 23.59 sun 5 23 end
+Panda Express($): [Chinese] mon 10.30 22 tue 10.30 22 wed 10.30 22 thu 10.30 22 fri 10.30 22 sat 10.30 22 sun 10.30 22 end
+Salata($$): [Salad] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 0 0 end
+Samui Thai Cuisine($$): [Thai] mon 11 14.30 17 21.30 tue 11 14.30 17 21.30 wed 11 14.30 17 21.30 thu 11 14.30 17 21.30 fri 11 14.30 17 22.30 sat 11 22 sun 11 21.30 end
+Seasons 52($$): [American] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23 sat 11 23 sun 10 21 end
+Shell Shak($$): [Seafood] mon 0 2 11 23.59 tue 0 2 11 23.59 wed 0 2 11 23.59 thu 0 2 11 23.59 fri 0 2 11 23.59 sat 0 2 11 23.59 sun 0 2 11 23.59 end
+Starbucks($): [Bougie coffee] mon 6 22 tue 6 22 wed 6 22 thu 6 22 fri 6 22 sat 6 22 sun 6 21 end
+Squares Hot Pot($$): [Szechuan] mon 12 22 tue 12 22 wed 12 22 thu 12 22 fri 12 23.59 sat 12 23.59 sun 12 22 end
+The Capital Grille($$$$): [Steakhouse] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 22 sat 17 23 sun 17 21 end
+Urban Crust($$): [Italian] mon 11 22 tue 11 22 wed 11 22 thu 11 22.30 fri 11 23.59 sat 0 2 11 23.59 sun 0 2 11 22 end
+Yatai Ramen Izakaya($$): [Ramen] mon 11.30 14 17.30 22 tue 11.30 14 17.30 22 wed 11.30 14 17.30 22 thu 11.30 14 17.30 22 fri 11.30 14 17.30 23.59 sat 11.30 23.59 sun 11.30 22 end

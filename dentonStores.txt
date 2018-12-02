@@ -1,0 +1,15 @@
+7-Eleven: [Convenience Store] mon 0 23.59 tue 0 23.59 wed 0 23.59 thu 0 23.59 fri 0 23.59 sat 0 23.59 sun 0 23.59 end
+Academy: [Sporting goods]: mon 8 22 tue 8 22 wed 8 22 thu 8 22 fri 8 22 sat 8 22 sun 9 21.30 end
+Albertsons: [Grocery Store] mon 6 23.59 tue 6 23.59 wed 6 23.59 thu 6 23.59 fri 6 23.59 sat 6 23.59 sun 6 23.59 end
+AT&T: [Cell Phone Store] mon 10 19 tue 10 19 wed 10 19 thu 10 19 fri 10 19 sat 10 19 sun 12 18 end
+Atomic Candy: [Candy] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 12 20 end
+Barnes & Noble: [Book Store] mon 8 17 tue 8 17 wed 8 17 thu 8 17 fri 8 17 sat 11 15 sun 0 0 end
+CVS Pharmacy: [Drug Store] mon 0 23.59 tue 0 23.59 wed 0 23.59 thu 0 23.59 fri 0 23.59 sat 0 23.59 sun 0 23.59 end
+Kohl's: [Department Store] mon 9 23 tue 9 23 wed 9 23 thu 9 23 fri 9 23.59 sat 8 23.59 sun 9 23 end
+GameStop: [Video Game Store] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 22 sat 10 22 sun 11 20 end
+Kroger: [Grocery Store] mon 0 23.59 tue 0 23.59 wed 0 23.59 thu 0 23.59 fri 0 23.59 sat 0 23.59 sun 0 23.59 end
+Petco: [Pet Supply Store] mon 9 21 tue 9 21 wed 9 21 thu 9 21 fri 9 21 sat 9 21 sun 10 19 end
+Recycled Books Records CDs: [Book Store] mon 9 21 tue 9 21 wed 9 21 thu 9 21 fri 9 21 sat 9 21 sun 9 21 end
+Ross Dress for Less: [Clothing Store] mon 9 23 tue 9 23 wed 9 23 thu 9 23 fri 8.3 23.59 sat 8.3 23 sun 9 23 end
+Twice As Nice: [Thrift Store] mon 10 17 tue 10 17 wed 10 17 thu 10 17 fri 10 17 sat 10 17 sun 10 17 end
+Walmart: [Department Store] mon 0 23.59 tue 0 23.59 wed 0 23.59  thu 0 23.59  fri 0 23.59  sat 0 23.59  sun 0 23.59 end

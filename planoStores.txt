@@ -1,0 +1,13 @@
+99 Ranch Supermarket: [Asian Grocery Store] mon 9 21.30 tue 9 21.30 wed 9 21.30 thu 9 21.30 fri 8 22 sat 8 22 sun 9 21.30 end
+Daiso: [Japanese Variety] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 21 sat 10 21 sun 10 20 end
+Hot Topic: [Clothes] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 21 sat 10 21 sun 9 18
+H-mart: [Korean Grocery Store] mon 9 22 tue 9 22 wed 9 22 thu 9 22 fri 9 22 sat 9 22 sun 9 22 end
+KD: [College Prep] mon 10.30 21 tue 10.30 21 wed 10.30 21 thu 10.3 21 fri 0 0 sat 8.30 17 sun 10.30 18 end
+Mitsuwa: [Japanese Grocery Store] mon 10 22 tue 10 22 wed 10 22 thu 10 22 fri 10 22 sat 10 22 sun 10 22 end
+Stonebriar Centre: [Shopping Mall] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 21 sat 10 21 sun 11 19 end
+Target: [Department Store] mon 8 22 tue 8 22 wed 8 22 thu 8 22 fri 8 23 sat 8 23 sun 8 22 end
+The Shops at Legacy: [Shopping Mall] mon 10 22 tue 10 22 wed 10 22 thu 10 22 fri 10 22 sat 10 22 sun 12 18 end
+The Shops at Willow Bend: [Shopping Mall] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 21 sat 10 21 sun 12 18 end
+Walmart: [Department Store] mon 0 23.59 tue 0 23.59 wed 0 23.59 thu 0 23.59 fri 0 23.59 sat 0 23.59 fri 0 23.59 sat 0 23.59 sun 0 23.59 end
+Whole Foods: [Supermarket] mon 7 22 tue 7 22 wed 7 22 thu 7 22 fri 7 22 sat 7 22 sun 7 22 end
+zTao Marketplace(Jusgo): [Supermarket] mon 9 21 tue 9 21 wed 9 21 thu 9 21 fri 9 22 sat 9 22 sun 9 21 end

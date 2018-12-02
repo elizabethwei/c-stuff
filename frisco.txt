@@ -1,0 +1,25 @@
+Burning Rice($$): [Korean] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 22 sat 11 22 sun 11 22 end
+Chick-Fil-A($): [Fast Food] mon 6 22 tue 6 22 wed 6 22 thu 6 22 fri 6 22 sat 6 22 sun 0 0 end
+Da Mario($$): [Italian] mon 17 21 tue 17 22 wed 17 22 thu 17 22 fri 17 23 sat 17 23 sun 17 21 end
+Dwaraka Curry Point($$): [Indian] mon 0 0 tue 16 21 wed 16 21 thu 16 21 fri 16 23 sat 11.3 23 sun 11.3 21 end
+EG Steak($$$): [Brazilian] mon 11 14 17 22 tue 11 14 17 22 wed 11 14 17 22 thu 11 14 17 22 fri 11 14 17 22 sat 16.3 22 sun 12 14.3 16 21 end
+Fruitealicious($): [Juice] mon 9 21 tue 9 21 wed 9 21 thu 9 21 fri 9 22 sat 9 22 sun 9 20 end
+Forever Pho($): [Vietnamese] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 11 21 end
+Hutchins BBQ($$): [Barbecue] mon 0 0 tue 0 0 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 11 21 end
+iCream Cafe($$): [Ice Cream] mon 0 0 tue 0 0 wed 12 21 thu 12 21 fri 12 22 sat 12 22 sun 12 21 end
+Kenny's Burger Joint($$): [Bar and Grill] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23 sat 11 23 sun 11 22 end
+Kotta Sushi Lounge($$): [Sushi] mon 11 21.3 tue 11 21.3 wed 11 21.3 thu 11 21.3 fri 11 22 sat 11.3 22 sun 12 21 end
+Mash'd($$): [American] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 23.59 sat 10 23.59 sun 10 22 end
+Meso Asia($$): [Asian] mon 11 22 tue 11 22 wed 11 22 thu 11 22 fri 11 22.3 sat 11 22.3 sun 11 21.3 end
+Paciugo($): [Ice Cream] mon 10 21 tue 10 21 wed 10 21 thu 10 21 fri 10 21 sat 10 21 sun 10 18 end
+Perry's Steakhouse and Grill($$$): [Steakhouse] mon 16 22 tue 16 22 wed 16 22 thu 16 22 fri 11 23 sat 4 23 sun 4 21 end
+Pho Que Huong($): [Vietnamese] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 11 21 end
+Platia Greek Kouzina($$): [Greek] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 11 21 end
+Roll and Poke($): [Sushi] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 12 20 end
+Smoothie King($$): [Juice] mon 6 22 tue 6 22 wed 6 22 thu 6 22 fri 6 22 sat 8 22 sun 9 21 end
+Starbucks($$): [Coffee] mon 5 22 tue 5 22 wed 5 22 thu 5 22 fri 5 23 sat 5 23 sun 5 21 end
+Sugarboy Donuts($): [Donuts] mon 5 13 tue 5 13 wed 5 13 thu 5 13 fri 5 13 sat 5 13 sun 5 13 end
+Sweet Thai($$): [Thai] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 12 22 sun 12 21 end
+Taco Bell($): [Mexican] mon 0 2 7 23.59 tue 0 2 7 23.59 wed 0 2 7 23.59 thu 0 2 7 23.59 fri 0 2 7 23.59 sat 0 3 7 23.59 sun 0 3 7 23.59 end
+Thai Noodle Wave Kitchen($$): [Thai] mon 11 15 17 22 tue 11 15 17 22 wed 11 15 17 22 thu 11 15 17 22 fri 11 15 17 23 sat 11.3 23 sun 11.3 22 end
+Whataburger($): [Fast Food] mon 0 23.59 tue 0 23.59 wed 0 23.59 thu 0 23.59 fri 0 23.59 sat 0 23.59 sun 0 23.59 end

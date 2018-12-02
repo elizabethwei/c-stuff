@@ -1,0 +1,29 @@
+Bruce: mon 7 21 tue 7 21 wed 7 21 thu 7 21 fri 7 21 sat 0 0 sun 0 0 end
+Champs: mon 7 9.30 11 14 16.30 20 tue 7 9.30 11 14 16.30 20 wed 7 9.30 11 14 16.30 20 thu 7 9.30 11 14 16.30 20 fri 7 9.30 11 14 16.30 19 sat 0 0 sun 0 0 end
+Kerr: mon 7 10 10.30 14.30 16.30 20 tue 7 10 10.30 14.30 16.30 20 wed 7 10 10.30 14.30 16.30 20 thu 7 10 10.30 14.30 16.30 20 fri 7 10 10.30 14.30 sat 10 14 16.30 19 sun 10 14 16.30 21 end
+Maple: mon 7 10 11 14 16.30 20 tue 7 10 11 14 16.30 20 wed 7 10 11 14 16.30 20 thu 7 10 11 14 16.30 20 fri 7 10 11 14 sat 0 0 sun 0 0 end
+West: mon 11 14 16.30 19 tue 11 14 16.30 19 wed 11 14 16.30 19 thu 11 14 16.30 19 fri 11 14 sat 0 0 sun 0 0 end
+Beth Marie's($): [Ice cream] mon 11 22 tue 11 22 wed 11 22 thu 11 22.30 fri 11 23.15 sat 11 23.15 sun 11 22 end
+Blue Ginger($$): [Sushi] mon 0 0 tue 10.3 21.3 wed 10.30 21.3 thu 10.3 21.3 fri 10.30 22.30 sat 11.3 22.3 sun 11.3 21.3 end
+Chik-fil-A($): [Chicken] mon 7.3 23 tue 7.3 23 wed 7.3 23 thu 7.3 23 fri 7.3 22 sat 10 22 sun 0 0 end
+Chipotle($): [Mexican grill] mon 10.45 22 tue 10.45 22 wed 10.45 22 thu 10.45 22 fri 10.45 22 sat 10.45 22 sun 10.45 22 end
+Corner Store($): [Bougie food] mon 7.3 23 tue 7.3 23 wed 7.3 23 thu 7.3 23 fri 7.3 23 sat 9 17 sun 12 21 end
+Crooked Crust($): [Pizza] mon 11 23.59 tue 11 23.59 wed 11 23.59 thu 11 23.59 fri 0 3 11 23.59 sat 12 3 11 11.59 sun 0 3 11 23.59 end
+Food Court($): [Diversity of Food] mon 7.3 19 tue 7.3 19 wed 7.3 19 thu 7.3 19 fri 7.3 15 sat 0 0 sun 0 0 end
+Fuzzy's($): [Tacos] mon 9.3 0 tue 9.3 0 wed 9.3 0 thu 9.3 0 fri 9.3 0 sat 10 0 sun 10 0 end
+Hanabi Ramen($$): [Ramen noodles] mon 11 14.30 17 22 tue 11 14.30 17 22 wed 11 14.30 17 22 thu 11 14.30 17 22 fri 11 14.30 17 22.30 sat 11 14.30 17 22.30 sun 11 14.30 17 22 end
+Hannah's($$$): [American food] mon 11 21 tue 11 22 wed 11 22 thu 11 22 fri 11 20 sat 10.30 22 sun 10.30 21 end
+Insomnia($): [Cookies] mon 0 3 9 23.59 tue 0 3 9 23.59 wed 0 3 9 23.59 thu 0 3 9 23.59 fri 0 3 9 23.59 sat 0 3 11 23.59 sun 0 3 11 23.59 end
+LSA Burger($$): [Burgers] mon 11 22 tue 11 22 wed 11 23 thu 11 23 fri 11 23.15 sat 11 23.15 sun 11 22 end
+Oriental Garden($): [Thai noodles and stir fry] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 0 0 end
+Pizza Snob($$): [Pizza] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 11 21 end
+Potbelly($): [Sandwiches] mon 7 21 tue 7 21 wed 7 21 thu 7 21 fri 7 21 sat 11 20 sun 11 20 end
+Rock-N-Roll Sushi($$): [Sushi] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 22 sat 11 22 sun 11 21 end
+Salata($$): [Salad shop] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 20 sun 0 0 end
+Starbucks($): [Bougie coffee] mon 7.30 23 tue 7.3 23 wed 7.3 23 thu 7.3 23 fri 7.3 23 sat 9 23 sun 12 23 end
+Sushi Cafe($$): [Sushi] mon 11 21.30 tue 11 21.30 wed 11 21.30 wed 11 21.30 fri 11 21.30 sat 15 21.30 sun 15 21.30 end
+Thai Ocha($$): [Traditional thai] mon 11 13.40 17 22 tue 11 13.40 17 22 wed 11 13.40 17 22 thu 11 13.40 17 22 fri 11 13.40 17 22 sat 11.30 22 sun 11.30 21 end
+Thai Square($$): [Thai food] mon 0 0 tue 11 15 17 21.3 wed 11 15 17 21.3 thu 11 15 17 21.3 fri 11 15 17 22 sat 11.3 22 sun 11.3 21 end
+The Taste($): [Korean food] mon 11 21 tue 11 21 wed 11 21 thu 11 21 fri 11 21 sat 11 21 sun 0 0 end
+Viet Bites($): [Viet noods] mon 11 21.30 tue 11 21.30 wed 11 21.30 thu 11 21.30 fri 11 21.30 sat 11 21.30 sun 11 21.30 end
+Which Wich($): [Sandwiches] mon 10 20 tue 10 20 wed 10 20 thu 10 20 fri 10 19 sat 11 17 sun 12 17 end
